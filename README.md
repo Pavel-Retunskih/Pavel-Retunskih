@@ -7,3 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Retunskih)](https://github.com/Pavel-Retunskih/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavel-Retunskih)](https://github.com/Pavel-Retunskih/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Mimik89/badges/large)](https://www.codewars.com/users/Mimik89)   
