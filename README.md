@@ -2,6 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Pavel;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js)
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pavel_Retunskih)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Pavel-Retunskih&color=36BCF7&style=flat-square)
+
 </div>
 
 ---
@@ -61,5 +65,9 @@
 <br/>
 
 [![codewars](https://www.codewars.com/users/Mimik89/badges/large)](https://www.codewars.com/users/Mimik89)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pavel-Retunskih&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
